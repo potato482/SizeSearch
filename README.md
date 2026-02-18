@@ -7,7 +7,7 @@
 size-search.exeがあるディレクトリで以下のコマンドを実行してください。  
 ```size-search 任意のパス```  
 すると、指定したパス内にあるすべてのファイルとディレクトリの容量がソートして出力されます。
-<img width="659" height="271" alt="Image" src="https://github.com/user-attachments/assets/2b80b3dd-bcbf-4847-810f-bcbfc46f67b1" />
+<img width="633" height="209" alt="Image" src="https://github.com/user-attachments/assets/93a4a1a7-97ba-4341-932f-b2cb1177be77" />
 # オプション
 このコマンドには以下のオプションが用意されています。  
 - `--per`: 各ファイルがどれほどの割合を占めるかを表示する
